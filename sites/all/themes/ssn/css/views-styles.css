@@ -1,0 +1,179 @@
+/**
+ * @file
+ * Views Styling
+ */
+
+/**Homepage
+ */
+ 
+.homepage img {
+}  
+
+.homepage p {
+  margin-bottom: 0px;
+}   
+
+.homepage div#block-system-main.block.block-system.first.odd {
+  margin-bottom: 5px;
+}
+
+/**Aboutus
+ */
+ 
+.aboutus img {
+  padding: 5px;
+}
+
+.aboutus div.content {
+  width: 450px;
+	margin-top: 50px;
+}
+
+.aboutus #node-4 {
+  margin-top: 5px;
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.aboutus h2 {
+  color: #BA9;
+	margin-bottom: 0px;
+	margin-left: 20px;
+	height: 10px;
+	font-weight: bold;
+}
+
+.aboutus h1 {
+  color: #865;
+	margin-bottom: 0px;
+	margin-top: 10px;
+	height: 37px;
+	font-weight: bold;
+	margin-left: 20px;
+  font-variant: small-caps;
+}
+
+.aboutus h5 {
+  font-family: 'La Belle Aurore', cursive;
+	color: #2C2823;
+	font-size: 24px;
+  font-style: italic;
+}
+
+/**Events
+ */
+ 
+.events div.content {
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #877;
+	font-size: 16px;
+}
+
+.events h1 {
+  text-align: center;
+	color: #765;
+	font-size: 32px;
+	font-weight: bold;
+	margin-bottom: 10px;
+	line-height: 44px;
+	font-variant: small-caps;
+	margin-top: 50px;
+}
+
+.events td {
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #877;
+	font-size: 16px;
+}
+
+.events table {
+	margin: 0 auto;
+	margin-top: 3px;
+	border-color: transparent;
+}
+
+/**Terms and Conditions
+ */
+  
+.terms div.content {
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #877;
+	font-size: 16px;
+	width: 700px;
+	margin: 0 auto;
+}
+
+.terms h1 {
+  text-align: center;
+	color: #765;
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 10px;
+	line-height: 44px;
+	font-variant: small-caps;
+	margin-top: 50px;
+}
+
+.terms h2 {
+  color: #765;
+	text-align: center;
+	margin-bottom: 10px;
+  font-variant: small-caps;
+  font-size: 18px;
+}
+
+.terms h3 {
+  text-align: center;
+	color: #765;
+	margin-bottom: 10px;
+  font-variant: small-caps;
+}
+
+.terms p {
+  margin-top: 3px;
+	margin-bottom: 10px;
+}
+
+/**Collection
+ */
+
+.collection a {
+  text-decoration: none;
+}
+
+.collection div.view-content {
+  margin-top: 10px;
+}
+
+.collection img {
+  padding: 5px 5px 5px 5px;  
+}
+
+.view-uc-catalog {
+	margin-left: -40px;
+}
+
+/**Contact
+ */
+
+.contact p {
+  text-align: center;
+  color: ##887777;
+}
+
+
+/**Gallery
+ */
+
+.gallery img {
+  padding: 5px 5px 5px 5px;
+}
+
+.gallery div.view-content {
+  margin-top: 10px;
+}
+.view-gallery {
+	margin-left: -44px;
+}
+
+
+
